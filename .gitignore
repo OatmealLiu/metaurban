@@ -7,3 +7,4 @@ build/
 dist/
 __pycache__/
 *.pyc
+my_private_assets.md
